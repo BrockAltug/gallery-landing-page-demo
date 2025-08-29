@@ -8,6 +8,7 @@ export default function ImageTextModules() {
   const [hoveredModule, setHoveredModule] = useState<number | null>(null)
   const moduleRefs = useRef<(HTMLDivElement | null)[]>([])
 
+  
   const modules = [
     {
       title: "Sustainable Materials",
