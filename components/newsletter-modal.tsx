@@ -14,6 +14,7 @@ interface NewsletterModalProps {
   onClose: () => void
 }
 
+
 export function NewsletterModal({ isOpen, onClose }: NewsletterModalProps) {
   const [email, setEmail] = useState("")
   const [isSubmitting, setIsSubmitting] = useState(false)
