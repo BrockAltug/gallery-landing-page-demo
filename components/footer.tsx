@@ -6,6 +6,7 @@ import { ContactModal } from "@/components/contact-modal"
 import { NewsletterModal } from "@/components/newsletter-modal"
 import { ProductShowcaseModal } from "@/components/product-showcase-modal"
 
+
 export default function Footer() {
   const [isVisible, setIsVisible] = useState(false)
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
