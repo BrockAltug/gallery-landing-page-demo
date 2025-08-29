@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://artisan-luxury-demo.netlify.app" target="_blank">
+  <a href="https://gallery-landing-page-demo.app" target="_blank">
     <img src="https://img.shields.io/badge/✨ View Live Demo-4DB6AC?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo"/>
   </a>
 </p>
@@ -93,7 +93,7 @@ Every pixel is crafted to **feel timeless yet innovative**, offering a **digital
 ---
 
 <p align="center">
-  <a href="https://artisan-luxury-demo.netlify.app" target="_blank">
+  <a href="https://gallery-landing-page-demo.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/✨ Explore Live Demo-4DB6AC?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo"/>
   </a>
 </p>
