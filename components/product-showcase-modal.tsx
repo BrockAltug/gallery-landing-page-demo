@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Heart, Share2, ShoppingCart, Star, Truck, Shield, RotateCcw } from "lucide-react"
 
+
 interface Product {
   id: string
   name: string
