@@ -10,6 +10,7 @@ import { Textarea } from "@/components/ui/textarea"
 import { Label } from "@/components/ui/label"
 import { Send, Phone, Mail, MapPin, Clock, CheckCircle } from "lucide-react"
 
+
 interface ContactModalProps {
   isOpen: boolean
   onClose: () => void
