@@ -8,6 +8,7 @@ export default function Testimonials() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
   const [hoveredStat, setHoveredStat] = useState<number | null>(null)
 
+  
   const testimonials = [
     {
       quote:
