@@ -13,6 +13,7 @@ export default function Hero() {
   const [showContactModal, setShowContactModal] = useState(false)
   const [showNewsletterModal, setShowNewsletterModal] = useState(false)
 
+  
   const sampleProduct = {
     id: "1",
     name: "Handcrafted Ceramic Vase",
